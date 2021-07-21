@@ -1,4 +1,4 @@
-package FreeForm;
+package freeform.backend.FreeForm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
