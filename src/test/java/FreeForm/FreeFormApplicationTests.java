@@ -1,10 +1,10 @@
-package freeform.backend.FreeForm;
+package FreeForm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FreeFormBackendApplicationTests {
+class FreeFormApplicationTests {
 
 	@Test
 	void contextLoads() {
